@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.brsrk94.Nox</id>
+  <name>NOX</name>
+  <summary>Keyboard-first launcher and command palette for Linux</summary>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer id="io.github.brsrk94">
+    <name>brsrk94</name>
+  </developer>
+  <launchable type="desktop-id">NOX.desktop</launchable>
+  <description>
+    <p>NOX is a Raycast-inspired launcher for Linux built with C++, Qt 6, and QML.</p>
+    <p>Search applications, files, commands, clipboard history, and calculator results from a fast keyboard-first palette.</p>
+  </description>
+  <categories>
+    <category>Utility</category>
+    <category>Qt</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main command palette</caption>
+      <image>https://raw.githubusercontent.com/brsrk94/Nox/main/docs/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/brsrk94/Nox</url>
+  <url type="bugtracker">https://github.com/brsrk94/Nox/issues</url>
+</component>

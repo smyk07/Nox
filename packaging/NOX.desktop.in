@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=NOX
+GenericName=Application Launcher
+Comment=Keyboard-first Linux launcher and command palette
+Exec=nox
+Icon=nox
+Terminal=false
+Categories=Utility;Qt;
+Keywords=launcher;command palette;search;apps;files;
+StartupWMClass=NOX
