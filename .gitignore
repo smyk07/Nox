@@ -50,6 +50,8 @@ squashfs-root/
 # Downloaded packaging tools
 tools/*.AppImage
 tools/runtime-*
+tools/appimagetool
+tools/linuxdeploy-plugin-qt
 
 # Editor and local cache
 .cache/
