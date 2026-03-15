@@ -46,6 +46,7 @@ AppDir/
 _CPack_Packages/
 dist/
 squashfs-root/
+deb-stage/
 
 # Downloaded packaging tools
 tools/*.AppImage
