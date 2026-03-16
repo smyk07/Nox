@@ -182,7 +182,3 @@ NOX is functional today as a base launcher and packaging-ready desktop applicati
 - More actions per result
 - Better previews for files and clipboard content
 - Additional system and developer-focused plugins
-
-## License
-
-This project should include a top-level license file before public release. If you want, the next step can be adding an explicit open-source license such as MIT or GPL-3.0.
